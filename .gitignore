@@ -1,3 +1,7 @@
+# Dev stuff
+__pycache__
+*.sw?
+
 .DS_Store
 apps/.DS_Store
 code/.DS_Store
