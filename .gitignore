@@ -1,6 +1,8 @@
 # Dev stuff
 __pycache__
 *.sw?
+# Locally generated
+/settings
 
 .DS_Store
 */.DS_Store
