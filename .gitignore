@@ -5,7 +5,6 @@ __pycache__
 # Locally generated
 /settings
 .vscode/settings.json
-
 .DS_Store
 */.DS_Store
 check-shasum
