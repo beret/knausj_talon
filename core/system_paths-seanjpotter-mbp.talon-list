@@ -1,0 +1,15 @@
+list: user.system_paths
+host: seanjpotter-mbp
+-
+user: /Users/seanjpotter
+profile: /Users/seanjpotter
+desktop: /Users/seanjpotter/Desktop
+desk: /Users/seanjpotter/Desktop
+documents: /Users/seanjpotter/Documents
+docks: /Users/seanjpotter/Documents
+downloads: /Users/seanjpotter/Downloads
+music: /Users/seanjpotter/Music
+pictures: /Users/seanjpotter/Pictures
+videos: /Users/seanjpotter/Videos
+talon home: /Users/seanjpotter/.talon
+talon user: /Users/seanjpotter/.talon/user
